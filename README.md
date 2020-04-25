@@ -7,7 +7,7 @@
 - [Glide](https://github.com/bumptech/glide) 一个快速高效的Android图片加载库，注重于平滑的滚动。
 - [Retrofit](https://github.com/square/retrofit) HTTP client for Android and Java。
 ## 效果
-<img src="https://github.com/jym66/LiveBox/blob/master/1.png" width="90%">
+<img src="https://github.com/jym66/LiveBox/blob/master/4.png" width="90%">
 
 <img src="https://github.com/jym66/LiveBox/blob/master/2.png" width="90%">
 
