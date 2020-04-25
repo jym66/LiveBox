@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.livebox.index">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.util.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/live"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/http"
+        android:roundIcon="@drawable/live"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity
+            android:name=".Main2Activity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

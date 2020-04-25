@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_play"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#F6F5F5"
+    android:orientation="horizontal">
+    <com.media.VideoPlayer
+        android:id="@+id/jz_video"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+</LinearLayout>
