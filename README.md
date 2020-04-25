@@ -8,9 +8,9 @@
 - [Retrofit](https://github.com/square/retrofit) HTTP client for Android and Java。
 ## 效果
 
-<img src="https://github.com/j1390109557/GetLiveAddress/blob/master/2.png" width="90%">
+<img src="https://github.com/jym66/LiveBox/blob/master/2.png" width="90%">
 
-<img src="https://github.com/j1390109557/GetLiveAddress/blob/master/3.png" width="90%">
+<img src="https://github.com/jym66/LiveBox/blob/master/3.png" width="90%">
 
 ## 支持平台
 - [Douyu](https://www.douyu.com/)
