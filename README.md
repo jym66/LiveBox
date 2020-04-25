@@ -1,5 +1,6 @@
 # 说明
   刚学Android,可能会有一些很奇葩的代码.............
+  耦合度高=-=
 ## 用到的库
 
 - [JiaoZiVideoPlayer](https://github.com/Jzvd/JiaoZiVideoPlayer) 高度自定义的安卓视频框架。
